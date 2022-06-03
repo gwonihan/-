@@ -1,10 +1,6 @@
-# 리뷰 데이터 토픽별 감성분석
-
-
+![image-20220603174319056](README/image-20220603174319056.png)
 
 # Workflow
-
-![Workflow](README/Workflow.png)
 
 
 
