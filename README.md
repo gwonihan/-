@@ -1,10 +1,2 @@
 ![image-20220603174319056](README/image-20220603174319056.png)
 
-# Workflow
-
-
-
-
-# Result
-
-![image-20220601214414578](README/image-20220601214414578.png)
