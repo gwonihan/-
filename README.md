@@ -37,8 +37,11 @@
 ### 데이터
 
 1. 크롤링
-2. 전처리
-3.  토크나이징
+   1. [NAVER](https://github.com/Younghyeon-Kim/Project/blob/master/%ED%81%AC%EB%A1%A4%EB%A7%81/NAVER_crawling.ipynb)
+   2. [Google](https://github.com/Younghyeon-Kim/Project/blob/master/%ED%81%AC%EB%A1%A4%EB%A7%81/google_crawling.ipynb)
+
+2. [전처리](https://github.com/Younghyeon-Kim/Project/blob/master/%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
+3. 토크나이징
 
 ### 모델 구축
 
