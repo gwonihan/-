@@ -65,6 +65,8 @@
 
 ### 모델 실행
 
+[코드](https://github.com/Younghyeon-Kim/Project/blob/master/LUCIFER_ver1.ipynb)
+
 1. 토픽 분류
 2. 감성 평가
 
@@ -72,7 +74,14 @@
 
 ## Result
 
-(결과 내용 다시 추가해야 함)
+[코드](https://github.com/Younghyeon-Kim/Project/blob/master/%EA%B2%B0%EA%B3%BC%EB%B6%84%EC%84%9D_%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC.ipynb)
+
+1. WordCloud
+2. 토픽별 긍부정 문장 카운트
+3. 워터파크별 점수 확인
+4. 리뷰 점수 VS 문장내 긍부정 평가
+5. 리뷰 키워드 검색
+6. 워터파크별 토픽점수 데이터프레임
 
 ![image-20220628192241958](README/image-20220628192241958.png)
 
