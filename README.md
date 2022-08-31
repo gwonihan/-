@@ -1,7 +1,7 @@
 # 워터파크 리뷰 데이터 분석
 
 ### Lucifer ver.1
-### ~~Lucifer ver.2~~
+
 
 
 
